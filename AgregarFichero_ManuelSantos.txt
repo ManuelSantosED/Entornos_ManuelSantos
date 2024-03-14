@@ -1,0 +1,1 @@
+Crea o copia un nuevo fichero a la carpeta del repositorio (local)
